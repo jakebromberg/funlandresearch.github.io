@@ -1,0 +1,29 @@
+body {
+	margin: 50pt
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@font-face {
+	font-family: Pacifico;
+	src: url(Pacifico-Regular.ttf);
+}
+
+h1 {
+	font-family: Futura;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 48pt;
+	color: black;
+}
+
+p {
+	font-family: Futura;
+	font-weight: 100;
+	font-size: xx-large;
+	color: black;
+}
