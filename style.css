@@ -9,21 +9,28 @@ body {
 }
 
 @font-face {
-	font-family: Pacifico;
-	src: url(Pacifico-Regular.ttf);
+	font-family: EspySans;
+	src: url(EspySansRevivedTwelve-Regul.ttf);
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: EspySans;
+	src: url(EspySansRevivedTwelve-Bold.ttf);
+	font-weight: bold;
 }
 
 h1 {
-	font-family: Futura;
-	font-style: italic;
-	font-weight: bolder;
+	font-family: EspySans;
+	/* font-style: italic; */
+	font-weight: bold;
 	font-size: 48pt;
 	color: black;
 }
 
 p {
-	font-family: Futura;
-	font-weight: 100;
+	font-family: EspySans;
+	font-weight: normal;
 	font-size: xx-large;
 	color: black;
 }
