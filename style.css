@@ -1,36 +1,36 @@
 body {
-	margin: 50pt
+  max-width: 33.33%;
+  margin: 0 auto;
 }
 
 .center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @font-face {
-	font-family: EspySans;
-	src: url(EspySansRevivedTwelve-Regul.ttf);
-	font-weight: normal;
+  font-family: EspySans;
+  src: url(EspySansRevivedTwelve-Regul.ttf);
+  font-weight: normal;
 }
 
 @font-face {
-	font-family: EspySans;
-	src: url(EspySansRevivedTwelve-Bold.ttf);
-	font-weight: bold;
+  font-family: EspySans;
+  src: url(EspySansRevivedTwelve-Bold.ttf);
+  font-weight: bold;
 }
 
 h1 {
-	font-family: EspySans;
-	/* font-style: italic; */
-	font-weight: bold;
-	font-size: 48pt;
-	color: black;
+  font-family: EspySans;
+  font-weight: bold;
+  font-size: 48pt;
+  color: black;
 }
 
 p {
-	font-family: EspySans;
-	font-weight: normal;
-	font-size: xx-large;
-	color: black;
+  font-family: EspySans;
+  font-weight: normal;
+  font-size: xx-large;
+  color: black;
 }
